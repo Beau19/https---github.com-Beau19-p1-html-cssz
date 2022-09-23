@@ -1,15 +1,12 @@
-h1 {
-    font-size: 24px;
-    color: rgb(255, 0, 0) ;
-    font-weight: bold;
-
-}
-h2 {
-    font-size: 20px;
-    color: #0000ff;
-    font-weight: bold;
+html {
+    font-size: 62.5%;
 }
 
-header {
-     background-image: url("pokemon.jpeg")
+
+section {
+ font-size: 1rem;
+}
+
+img {
+      background-image: url(pokemon.jpeg);
 }
