@@ -40,3 +40,13 @@ li a {
     text-align: center;
     color: #fff;
 }
+
+li img {
+height: 15vh;
+    
+}
+
+img {
+background-image: "imgs/dev.jpg"
+
+}
