@@ -7,11 +7,12 @@
 .flex-container {
     display: flex;
     background: #b8b8b8;
+    width: 100vw;
 }
 
 .item1 {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   background: #254DE4;
   margin: 10px;
   color: #fff;
@@ -19,8 +20,8 @@
 }
 
 .item2 {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     background: #000000;
     margin: 10px;
     color: #fff;
@@ -28,8 +29,8 @@
   }
 
   .item3 {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     background: #ff0000;
     margin: 10px;
     color: #fff;
@@ -37,8 +38,8 @@
   }
 
   .item4 {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     background: #466D1D;
     margin: 10px;
     color: #fff;
