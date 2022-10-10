@@ -98,3 +98,10 @@ nav{
     justify-content: space-between;
     align-items: center;
 }
+footer {
+    background-color: #009100;
+    color:white;
+    text-align:center;
+    font-size: 2rem;
+    padding: 1rem;
+  }
