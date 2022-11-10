@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+}
+
+nav {
+    background-color: aqua;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+nav ul{
+    background-color: chartreuse;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 80vw;
+}
+
+nav li{
+      background-color: coral;
+      list-style-type: none;
+      padding: 10px;
+}
+
+nav li a{
+    padding: 10px;
+    padding-top: 10px;
+}
+
+main {
+    min-height: 65vh;
+    background-color: yellow;
+}
+
+.main_articles {
+background-color: darkgreen;
+height: 60vh;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+}
+
+.main_articles article{
+    background-color: cornflowerblue;
+    width: 80vw;
+    height: 40vh;
+    border-radius: 25px; 
+}
