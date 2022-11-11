@@ -21,3 +21,40 @@
     color: black;
     padding: 2rem;
   }
+
+  @media only screen and (max-width: 600px) {
+    .box_1 {
+      background-color: pink;
+    }
+
+    .box_2 {
+      background-color: #fe4164;
+    }
+
+    .box_3 {
+      background-color: #800080;
+    }
+
+    .box_4 {
+      background-color: blue;
+    }
+  }
+
+
+  @media only screen and (max-width: 1200px) and (min-width: 600px) {
+      .box_1 {
+        background-color: #6495ed;
+      }
+  
+      .box_2 {
+        background-color: #7df9ff;
+      }
+  
+      .box_3 {
+        background-color: #cc00cc;
+      }
+  
+      .box_4 {
+        background-color: #002147;
+      }
+    }
